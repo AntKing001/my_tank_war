@@ -1,0 +1,3 @@
+/Users/shiyuqianzhi/Desktop/cpp/my_tank_war/cmake-build-debug/CMakeFiles/my_tank_war.dir
+/Users/shiyuqianzhi/Desktop/cpp/my_tank_war/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shiyuqianzhi/Desktop/cpp/my_tank_war/cmake-build-debug/CMakeFiles/rebuild_cache.dir
